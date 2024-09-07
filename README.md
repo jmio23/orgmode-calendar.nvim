@@ -1,3 +1,16 @@
+IMPORTANT: I am mostly breaking this for a while, dont try to use it 👾
+
+
+
+
+
+
+
+
+
+original readme:
+
+
 # A calendar application for Vim
 ### Vim meets a next generation application
 
